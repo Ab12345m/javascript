@@ -15,5 +15,5 @@ function Bat() {
         let computerChoice = 'Stump';
     }
 
-    
+
 }
