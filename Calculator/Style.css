@@ -1,0 +1,45 @@
+#calculator{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 450px;
+    margin-top: 70px;
+    background: #3F5EFB;
+   background-color:whitesmoke;
+
+
+    
+
+}
+
+*{
+background: linear-gradient(135deg, #a1c4fd, #c2e9fb, #fbc2eb);
+
+
+
+
+
+
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.button{
+    height: 45px;
+    width: 45px;
+    margin:5px;
+    border-radius: 20px;
+    color: blue;
+}
+
